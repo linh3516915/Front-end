@@ -1,0 +1,23 @@
+.san-pham {
+  background-color: white;
+    width: 24%;
+    border: 2px solid black;
+    text-align: center;
+    margin: 0 auto;
+    margin: 14px 6px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+.loai_san_pham{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 10%;
+}
+.ten_loai_san_pham{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.productypes{
+  background-color: #ccc;
+}
